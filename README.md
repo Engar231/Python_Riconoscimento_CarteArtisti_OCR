@@ -3,7 +3,7 @@
 Final project for Bitcamp.
 This application uses `pytesseract` and `EasyOCR` to perform optical character recognition on trading cards.
 Through a manually selected crop area, the program detects the illustrator’s name and displays it in the application interface (`main.py`).
-![Interfaccia Riconoscimento Carte](Python_Riconoscimento_CarteArtisti_OCR/Esempio1.png)
+<img width="868" height="652" alt="PythonOCR" src="https://github.com/user-attachments/assets/a1b5fb2f-7001-4a87-ae46-eaea6610e3d7" />
 
 ---
 
@@ -11,7 +11,8 @@ Through a manually selected crop area, the program detects the illustrator’s n
 * Trained models for macro categories (One Piece, Magic, Digimon, etc.)
 * A separate model for micro categories (Italian playing cards – Briscola)
 
-The Briscola dataset was built manually using both online images and personal photographs. Due to its limited size, a custom strategy was applied to improve usability during training.
+The Briscola dataset was built manually using both online images and personal photographs. Due to its limited size, a custom strategy
+ was applied to improve usability during training.
 
 The model was trained using 224×224 input images, focusing on demonstrating performance under limited hardware resources.
 
