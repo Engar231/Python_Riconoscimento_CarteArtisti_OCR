@@ -3,7 +3,7 @@
 Final project for Bitcamp.
 This application uses `pytesseract` and `EasyOCR` to perform optical character recognition on trading cards.
 Through a manually selected crop area, the program detects the illustrator’s name and displays it in the application interface (`main.py`).
-![Interfaccia Riconoscimento Carte](Python_Riconoscimento_CarteArtisti_OCR/Esempio 1.png)
+![Interfaccia Riconoscimento Carte](Python_Riconoscimento_CarteArtisti_OCR/Esempio1.png)
 
 ---
 
