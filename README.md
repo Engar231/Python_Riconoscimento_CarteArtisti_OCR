@@ -7,7 +7,7 @@ Through a manually selected crop area, the program detects the illustrator’s n
 ## 🖼️ Anteprima dell'Applicazione (Riconoscimento Carte)
 Ecco come appare l'interfaccia grafica del progetto in azione:
 
-![Interfaccia Riconoscimento Carte](assets/app-carte.jpg)
+![Interfaccia Riconoscimento Carte](assets/PythonOCR.png)
 
 ---
 
